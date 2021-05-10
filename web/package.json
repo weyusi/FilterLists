@@ -17,7 +17,7 @@
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^3.4.0",
     "less": "^4.1.1",
-    "less-loader": "^7.3.0",
+    "less-loader": "^8.1.1",
     "prettier": "^2.2.1",
     "react": "^17.0.2",
     "react-app-rewired": "^2.1.8",
